@@ -1,4 +1,4 @@
-# Challenge-1
+# Accessibility Refactor Project
 
 ## Description
 
